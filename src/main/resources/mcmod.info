@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wynnquestmap",
+  "name": "WynnQuestMap",
+  "description": "Makes markers for quests on the Wynncraft web map.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Celsiuss"],
+  "credits": "The Wynncraft team, for making an awesome MMORPG Minecraft server",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
